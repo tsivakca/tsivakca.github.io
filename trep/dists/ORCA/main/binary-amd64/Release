@@ -1,0 +1,5 @@
+Component: main
+Origin: DeGirum
+Label: DeGirum
+Architecture: amd64
+Description: ORCA driver and Degirum tools

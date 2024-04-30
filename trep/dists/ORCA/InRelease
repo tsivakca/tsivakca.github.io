@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: DeGirum
+Label: DeGirum
+Codename: ORCA
+Date: Tue, 30 Apr 2024 01:17:18 UTC
+Architectures: amd64 arm64
+Components: main
+Description: ORCA driver and Degirum tools
+MD5Sum:
+ d349ea740c05f8222d3ee1c215519b75 972 main/binary-amd64/Packages
+ 301966afefab9ae441722f6d238aaade 556 main/binary-amd64/Packages.gz
+ 5dcd6526e93b46c79c7e4694004b8ab0 110 main/binary-amd64/Release
+ d349ea740c05f8222d3ee1c215519b75 972 main/binary-arm64/Packages
+ 301966afefab9ae441722f6d238aaade 556 main/binary-arm64/Packages.gz
+ 3ba65645f288e3eb38582c9aa071c27c 110 main/binary-arm64/Release
+SHA1:
+ d159eb3aac743d4fb5c01f2e90198f4aba5ec28e 972 main/binary-amd64/Packages
+ 015ca5e6fba2847fd72cf8c6db9cf91015a82f36 556 main/binary-amd64/Packages.gz
+ 693f64b8168a7b72f8d91ee3acbf24a07da645d3 110 main/binary-amd64/Release
+ d159eb3aac743d4fb5c01f2e90198f4aba5ec28e 972 main/binary-arm64/Packages
+ 015ca5e6fba2847fd72cf8c6db9cf91015a82f36 556 main/binary-arm64/Packages.gz
+ b5a389eb1c630e459a9b131797b1e31126635434 110 main/binary-arm64/Release
+SHA256:
+ 978aef60f8cf156b24f568db56711439d4cf83ce60cc9fe0a462c5fe90fa80b9 972 main/binary-amd64/Packages
+ 64d4ae8b8834b2f50e364f8efb209073e779254aa9469c35f484fac8068c62f7 556 main/binary-amd64/Packages.gz
+ 3b73c7b574b0e29d248c4d23a5193c37e27ac3bc439033c54b4b35469d754b78 110 main/binary-amd64/Release
+ 978aef60f8cf156b24f568db56711439d4cf83ce60cc9fe0a462c5fe90fa80b9 972 main/binary-arm64/Packages
+ 64d4ae8b8834b2f50e364f8efb209073e779254aa9469c35f484fac8068c62f7 556 main/binary-arm64/Packages.gz
+ ea4340d7181e6e2ccf67d78892d78c4bb0dbc111608759107e21ca2114a7a5b8 110 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEAedxB1JFC5YUR0ZDrvaJ8KwzMRYFAmYwRp4ACgkQrvaJ8Kwz
+MRYjgAv/aL4PVTLa2Ks25ghseK5iUWVwUMyDrTIOe6FL9QzsojozKLay/PDRZSls
+z2eW0CIW7LgW0ybxeTJmVsVcfXffa+fZ7UXdROakmWm17qDC25QpeS2jUteoFHP3
+QBIFCALDxoOEbuzDRwY6fRJwYMN12zBGiT8HdISia45xPOck+nAJyI9myRgpKro5
+0krpqFle8P/3EjdLSiw7op6FAY/oDeB5mS1/3XBVbnivZEdUo1EwGueg4a0zAiAE
+czgDgGt/UY3aiLGM0xL5ANJVb8zVnJ84qjpOydPnOuMkMP27vj/wskRQT2odujXU
+oxJRAL2qOFasuN2oqLR3FwnQyWm7qdIukEj+j8UpNl/CzLQF3np9rd3NES/3ph0v
+6JoZuZwZJo8etIp3ewm95iLU/pd3cyuG7mJx/vgK1aiBg5LLr9TNnlyIk4jbod7j
+V69BBqRn6ufhPMJ9z8Gu6TcLWSIw148YOwG+L+LADvhFK4FWwsMP0I/WJoIpfnbu
+esg13wXe
+=ZedO
+-----END PGP SIGNATURE-----

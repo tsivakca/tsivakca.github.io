@@ -1,0 +1,32 @@
+Package: cdapci-dkms
+Version: 0.5.0.1
+Architecture: all
+Maintainer: Alexander Bolotov <bolotov@degirum.com>
+Installed-Size: 78
+Depends: dkms (>= 2.1.0.0)
+Homepage: https://degirum.com
+Priority: optional
+Section: utils
+Filename: pool/main/c/cdapci-dkms/cdapci-dkms_0.5.0.1_all.deb
+Size: 16556
+SHA256: 58461a19586d477ae209b48685c9f232e4ee569666bbed3469baadfacd97041f
+SHA1: b9a8d1f0ec53c8d363bf46b83db2d561d25d5ae0
+MD5sum: 72430d20958e3cc93e14b04200eec10a
+Description: ORCA kernel driver
+ Kernel mode driver for ORCA AI accelerator.
+
+Package: linusb
+Version: 0.1-1
+Architecture: all
+Maintainer: Sivakumar Thirunavukkarasu <siva@degirum.com>
+Installed-Size: 13
+Homepage: https://degirum.com
+Priority: optional
+Section: utils
+Filename: pool/main/l/linusb/linusb_0.1-1_all.deb
+Size: 2788
+SHA256: b4a5ad0a9c961d3366de272576338e16566134ed2cf922c5b72f04c870fe6a4f
+SHA1: 49d68b68d9ebf82e6c2d6a14f29f7fac6cf5e67c
+MD5sum: 4d09f7499a845999408b66e3d5d5040b
+Description: ORCA usb rules
+

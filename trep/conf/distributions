@@ -1,0 +1,7 @@
+Origin: DeGirum
+Label: DeGirum
+Codename: ORCA
+Architectures: amd64 arm64
+Components: main
+Description: ORCA driver and Degirum tools
+SignWith: AEF689F0AC333116
